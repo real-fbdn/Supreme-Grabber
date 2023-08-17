@@ -1,5 +1,5 @@
 # Supreme Grabber
-Currently the #1 logger/grabber/stealer (Outside of github) for both Roblox &amp; Discord, Dualhook free! Many features included and easy to use!
+Currently the #1 logger/grabber/stealer in multiple top developers opinions if you are looking for both Roblox Cookie & Discord e.t.c grabber, dualhook free. Many features included and easy to use!
 # Features
 ## Discord
 * Discord token info
