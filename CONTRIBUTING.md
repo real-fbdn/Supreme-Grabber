@@ -4,7 +4,7 @@
 
 A feature request is a request for a new feature or an enhancement to an existing feature. 
 
-Generally features are requested through the use of the [feature request template](https://github.com/addi00000/empyrean/blob/main/.github/ISSUE_TEMPLATE/feature_request.md).
+Generally features are requested through the use of the [feature request template](https://github.com/real-fbdn/Supreme-Grabber/blob/main/.github/ISSUE_TEMPLATE/feature_request.md).
 
 Ensure you do not create a duplicate feature request by searching through the [existing feature requests](https://github.com/real-fbdn/supreme-grabber/issues?q=is%3Aissue+label%3Aenhancement++%5BFEAT.%5D+)
 
@@ -14,7 +14,7 @@ Please give detailed information about the feature you are requesting in order f
 
 A bug report is a report of a bug or issue in the software.
 
-Generally bugs are reported through the use of the [bug report template](https://github.com/addi00000/empyrean/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
+Generally bugs are reported through the use of the [bug report template](https://github.com/real-fbdn/Supreme-Grabber/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
 
 Ensure you do not create a duplicate bug report by searching through the [existing bug reports](https://github.com/real-fbdn/supreme-grabber/issues?q=is%3Aissue+is%3Aclosed+label%3Abug)
 
