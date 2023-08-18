@@ -1,6 +1,10 @@
 ## WORKS WITH OVER 50+ BROWSERS
 # Supreme Grabber 
 Currently the #1 logger/grabber/stealer in multiple top developers opinions if you are looking for both Roblox Cookie & Discord e.t.c grabber, dualhook free. Many features included and easy to use!
+# --------
+## ATTENTION! THIS PROJECT IS DISCONTINUED BUT STILL WORKS,
+## JUST WON'T BE RELELEASING ANY NEW UPDATES
+# --------
 # Features
 ## Discord
 * Discord token info
