@@ -20,7 +20,7 @@ Ensure you do not create a duplicate bug report by searching through the [existi
 
 Please make sure to include as much information as possible in your bug report. This includes:
 
-- The version of Empyrean you are using
+- The version of Supreme Grabber you are using
 - The version of Python you are using
 - The operating system you are using
 - The steps to reproduce the bug
